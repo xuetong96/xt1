@@ -33,11 +33,11 @@
 # print(a+xx)
 # a.remove(3)
 # print(a)
-a = {'name':"薛彤","age":24,"身高":"160cm"}
-print(a['age'])
-a['身高']='162cm'
-print(a)
-a.update(name=1111)
+# a = {'name':"薛彤","age":24,"身高":"160cm"}
+# print(a['age'])
+# a['身高']='162cm'
+# print(a)
+# a.update(name=1111)
 # print(a)
 # b=a.get('name')
 # print(b)
@@ -47,3 +47,4 @@ a.update(name=1111)
 # print(a)
 # print(c)
 # print(a)
+
