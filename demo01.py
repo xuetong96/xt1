@@ -48,3 +48,10 @@
 # print(c)
 # print(a)
 
+
+# a = {"name":"xtxt","age":24,"sex":"女"}
+# print (a)
+name = input('请输入姓名：')
+age = input ("请输入年龄：")
+sex = input("请输入性别:")
+user = {"name:"}
