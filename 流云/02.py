@@ -13,7 +13,7 @@ import requests
 # print(res.status_code)
 
 from tools.requeststools import request1
-from dbtools import shujuku
+from tools.dbtools import shujuku
 
 url = "http://192.144.148.91:2333/get_title_img"
 r = request1('get', url, {}, {}, 200, 200)
